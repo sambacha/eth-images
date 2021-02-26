@@ -1,7 +1,8 @@
 ## EthOn icon set
+
 ![Some of the icons](overview.jpg)
 
-The above is an excerpt of the icon set. There are some more icons in this folder. 
+The above is an excerpt of the icon set. There are some more icons in this folder.
 
 The icons were designed by @VladTod. Thank you!
 
@@ -18,6 +19,7 @@ Like the rest of EthOn they are licensed CC-BY
 `rename .svg.png .png *.svg.png`
 
 ### Cleanup
- - Remove Adobe comment
- - Remove ` style="enable-background:new 0 0 106 106;" xml:space="preserve"`
- - change `id=''` to the full EthOn URI
+
+- Remove Adobe comment
+- Remove `style="enable-background:new 0 0 106 106;" xml:space="preserve"`
+- change `id=''` to the full EthOn URI
