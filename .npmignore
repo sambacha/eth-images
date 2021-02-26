@@ -1,0 +1,15 @@
+
+# standard ignore
+.gitignore
+.jsonlintschema
+.svglintrc.js
+.travis.yml
+scripts/
+tests/
+validate/
+
+# ignore src
+src/**/*
+
+# overrides
+!src/icons
